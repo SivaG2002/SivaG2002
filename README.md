@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivag2002&label=Profile%20views&color=0e75b6&style=flat" alt="sivag2002" /> </p>
 
-- 🌱 I’m currently learning **Ai & Ml ,React js**
+- 🌱 I’m currently learning **Ai & Ml , Power BL**
 
 - 🔭 I’m currently working on [Botanic-Vision](https://github.com/SivaG2002/Botanic-Vision)
 
