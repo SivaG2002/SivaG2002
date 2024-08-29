@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **sivagnair2002@gmail.com**
+- 📫 How to reach me **sivagnairofficial@gmail.com**
 
 - 📄 Know about my experiences [https://white-karolina-42.tiiny.site/](https://white-karolina-42.tiiny.site/)
 
