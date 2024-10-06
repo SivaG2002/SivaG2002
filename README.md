@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ai & Ml , Power BL**
 
-- 🔭 I’m currently working on [Botanic-Vision](https://github.com/SivaG2002/Botanic-Vision)
+- 🔭 I’m currently working on [Deep Learning](https://github.com/SivaG2002/Botanic-Vision)
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/sivagnair](https://bit.ly/sivagnair)
 
