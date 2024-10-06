@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sivagnairofficial@gmail.com**
 
-- 📄 Know about my experiences https://bit.ly/sivag-cv
+- 📄 Know about my experiences [Resume].(https://bit.ly/sivag-cv)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@sivag2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sivag2002" height="30" width="40" /></a>
