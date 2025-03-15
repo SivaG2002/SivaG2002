@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivag2002&label=Profile%20views&color=0e75b6&style=flat" alt="sivag2002" /> </p>
 
-- 🌱 I’m currently learning **Ai & Ml , Power BL**
+- 🌱 I’m currently an AI Engineer at Ombrulla**
 
-- 🔭 I’m currently working on [Deep Learning](https://github.com/SivaG2002/Botanic-Vision)
+- 🔭 I’m currently working on LLMs
 
 - 👨‍💻 My Portfolio is [here](https://sivag2002.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python & Deep Learning**
 
 - 📫 How to reach me **sivagnairofficial@gmail.com**
 
