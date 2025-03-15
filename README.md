@@ -1,6 +1,6 @@
 ![logo](https://github.com/SivaG2002/SivaG2002/blob/main/banner)
 <h1 align="center">Hi 👋, I'm Siva G Nair</h1>
-<h3 align="center">A AI Engineer & React Developer from Kerala.</h3>
+<h3 align="center">An AI Engineer & React Developer from Kerala.</h3>
 
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
